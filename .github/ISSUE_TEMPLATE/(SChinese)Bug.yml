@@ -44,8 +44,3 @@ body:
       label: 日志与截图
       description: 提供日志/截图/录屏等方便我们查错
       placeholder: 先点击这个文本框，然后拖拽文件到上面上传
-  - type: markdown
-    attributes:
-      value: >-
-        This template was generated with [Issue Forms
-        Creator](https://issue-forms-creator.netlify.app)
