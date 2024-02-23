@@ -1,5 +1,6 @@
 name: Bug report
 description: (English)Submit a bug
+labels: bug
 title: '[Bug]: '
 body:
   - type: checkboxes
