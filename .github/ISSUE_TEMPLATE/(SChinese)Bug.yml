@@ -1,5 +1,5 @@
 name: Bug 报告
-description: (简体中文)提交一个BUg
+description: (简体中文)提交一个Bug
 title: '[Bug]: '
 body:
   - type: checkboxes
